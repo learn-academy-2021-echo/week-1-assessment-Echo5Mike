@@ -55,12 +55,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. GitHub pull request:
+1. GitHub pull request: A pull request is a is you as the dev asking to add your part of code to the main branch.
 
-2. Higher Order Functions:
+2. Higher Order Functions: is a built in method that takes in a function as an argument and applies it over an array.
 
-3. Jest:
+3. Jest: is a testing program that allows us to test JS.
 
-4. Objects:
+4. Objects: are containers for data.  
 
-5. Classes:
+5. Classes: are the framework or blueprint for obects to be created from.
