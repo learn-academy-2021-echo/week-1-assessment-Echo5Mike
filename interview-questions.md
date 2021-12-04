@@ -7,17 +7,17 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: I understand that Github is a website that holds code repositories and git holds the time line.
 
-  Researched answer:
+  Researched answer: GIT is a way to track changes in code and Github is the a is a hositing website that we use to hold and request code.
 
 
 
 2. What types of evaluations will return a Boolean value?
 
-  Your answer:
+  Your answer: Bollean value is a true or false data type and it happens whenever 
 
-  Researched answer:
+  Researched answer: 
 
 
 
