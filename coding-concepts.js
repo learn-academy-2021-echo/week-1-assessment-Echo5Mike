@@ -11,7 +11,7 @@ var cohort = "Echo 2021"
 // console.log(cohort.length)
 
 // a) Your answer:9
-// b) Verify and explain: 9, the .lenght will count the number of index's in the string or array
+// b) Verify and explain: 9, the .length will count the number of index's in the string or array
 
 
 // --------------------2) What will this log?
@@ -20,7 +20,7 @@ var greeting = "Hello World!"
 // console.log(greeting[3])
 
 // a) Your answer: "l"
-// b) Verify and explain: l, you are calling on the thrid element of the string.
+// b) Verify and explain: l, you are calling on the third element of the string.
 
 
 // --------------------3) What will this log?
@@ -40,7 +40,7 @@ var weekendDays = ["saturday", "sunday"]
 
 // a) Your answer: SATURDAY SUNDAY
 // b) Verify and explain: TypeError: weekendDays.toUpperCase is not a function;
-            //.toUpperCase() doen't notwork on arrays
+//.toUpperCase() doesn't notwork on arrays
 
 
 // --------------------5) What will this log?
@@ -49,4 +49,4 @@ var dataTypes = ["number", "string", "Boolean"]
 // console.log(typeof dataTypes.length)
 
 // a) Your answer:number
-// b) Verify and explain: number, we are asking what data type lenght is and lenght is a number.
+// b) Verify and explain: number, we are asking what data type length is and length is a number.
